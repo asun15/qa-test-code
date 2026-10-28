@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API_002_Create_Post</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>matthew54ksun</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>matthew54ksun</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>9938637c-626f-4322-a5e8-1bab410c03d6</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>9938637c-626f-4322-a5e8-1bab410c03d6</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34f45de7-26b3-471b-9c36-8d82a749b9e3</testCaseGuid>
+</TestCaseEntity>

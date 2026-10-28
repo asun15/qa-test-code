@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API_001_Get_User</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>matthew54ksun</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>matthew54ksun</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>9938637c-626f-4322-a5e8-1bab410c03d6</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>9938637c-626f-4322-a5e8-1bab410c03d6</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03464d6c-46f6-4d33-925b-bc550a61d2c1</testCaseGuid>
+</TestCaseEntity>
